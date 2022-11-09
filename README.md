@@ -5,5 +5,4 @@ The Website Link
 https://jomang32.github.io/The-number-one-challenge-01/
 
 Screenshot
-
-![](../../../../Desktop/Capture%20horiseon%20screenshot.PNG)
+![image link](../../../../Desktop/Capture%20horiseon%20screenshot.PNG)
