@@ -8,6 +8,6 @@ screen![horiseon](https://file%2B.vscode-resource.vscode-cdn.net/c%3A/Users/I%20
 
 
 The git Website Link
-
+https://github.com/jomanG32/The-number-one-challenge-01
 deployed website link
-
+https://jomang32.github.io/The-number-one-challenge-01/
